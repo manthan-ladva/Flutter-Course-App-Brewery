@@ -1,5 +1,6 @@
-name: i_am_rich
+name: i_am_poor
 description: A new Flutter application.
+
 version: 1.0.0+1
 
 environment:
@@ -8,6 +9,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+
   cupertino_icons: ^0.1.2
 
 dev_dependencies:
