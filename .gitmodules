@@ -1,0 +1,3 @@
+[submodule "Flutter_App_Brewery/mi_card_flutter"]
+	path = Flutter_App_Brewery/mi_card_flutter
+	url = https://github.com/londonappbrewery/mi_card_flutter.git
