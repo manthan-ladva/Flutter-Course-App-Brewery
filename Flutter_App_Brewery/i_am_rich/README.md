@@ -6,6 +6,10 @@ A new Flutter application.
 
 This project is a starting point for a Flutter application.
 
+## Take a look on the diagram of Widget used over here
+
+![Diagram](https://github.com/manthan-ladva/Flutter_By_Manthan/blob/master/Flutter_App_Brewery/i_am_rich/i_am_rich_drawio.png?raw=true)
+
 A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
