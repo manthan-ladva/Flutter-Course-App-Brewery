@@ -24,8 +24,8 @@ class DicePage extends StatefulWidget {
 }
 
 class _DicePageState extends State<DicePage> {
-  int leftDiceNumber = 1;
-  int rightDiceNumber = 1;
+  int leftDiceNumber = 0;
+  int rightDiceNumber = 0;
   int ad = 0;
 
   void buttonPressed() {
@@ -78,8 +78,8 @@ class _DicePageState extends State<DicePage> {
                   iconSize: 50,
                   onPressed: () {
                     setState(() {
-                      leftDiceNumber = 1;
-                      rightDiceNumber = 1;
+                      leftDiceNumber = 0;
+                      rightDiceNumber = 0;
                       ad = 0;
                     });
                     print("Done");
