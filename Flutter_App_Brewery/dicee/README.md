@@ -26,6 +26,10 @@ I have made here Las Vegas dice app. One can make the die roll at the press of a
 - Learn about basic dart programming concepts such as data types and functions.
 - Code and use gesture controls.
 
+## Take a look on the diagram of Widget used over here
+
+![Diagram](https://github.com/manthan-ladva/Flutter_By_Manthan/blob/master/Flutter_App_Brewery/dicee/dicee_diagram.png?raw=true)
+
 >This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
 
 ![End Banner](https://github.com/londonappbrewery/Images/blob/master/readme-end-banner.png)
