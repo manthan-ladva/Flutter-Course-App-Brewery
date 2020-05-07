@@ -24,6 +24,9 @@ We’re going to make a quiz app that tests your general knowledge. As one of th
 - How to use Dart lists.
 - The difference between var, const and final.
 
+## Packages
+- [RFlutter Alert](https://pub.dev/packages/rflutter_alert)
+
 ## Take a look on the diagram of Widget used over here
 
 ![Diagram](https://github.com/manthan-ladva/Flutter_By_Manthan/blob/master/Flutter_App_Brewery/7.%20quizzler/quizzler.png?raw=true)
