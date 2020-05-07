@@ -12,7 +12,7 @@ The objective of this tutorial is to introduce you to the core programming conce
 
 I have made here Las Vegas dice app. One can make the die roll at the press of a button. With this app in your pocket, you’ll be able to settle any score on the go!
 
-![Finished App](https://github.com/manthan-ladva/Flutter_By_Manthan/blob/master/Flutter_App_Brewery/dicee/gifs/dicee_demo.gif?raw=true)
+![Finished App](https://github.com/manthan-ladva/Flutter_By_Manthan/blob/master/Flutter_App_Brewery/4.%20dicee/gifs/dicee_demo.gif?raw=true)
 
 ## What one can learn
 
@@ -28,7 +28,7 @@ I have made here Las Vegas dice app. One can make the die roll at the press of a
 
 ## Take a look on the diagram of Widget used over here
 
-![Diagram](https://github.com/manthan-ladva/Flutter_By_Manthan/blob/master/Flutter_App_Brewery/dicee/dicee_diagram.png?raw=true)
+![Diagram](https://github.com/manthan-ladva/Flutter_By_Manthan/blob/master/Flutter_App_Brewery/4.%20dicee/dicee_diagram.png?raw=true)
 
 >This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
 
