@@ -10,7 +10,7 @@ After completing i_am_rich & i_am_poor as basic projects, going further and lear
 
 Mi Card is a personal business card. Imagine every time you wanted to give someone your contact details or your business card but you didn't have it on you. Well, now you can get them to download your business card as an app.
 
-![Card](https://github.com/manthan-ladva/Flutter_By_Manthan/blob/master/Flutter_App_Brewery/mi_card/readme_files/ss_of_my_card.jpg?raw=true)
+![Card](https://github.com/manthan-ladva/Flutter_By_Manthan/blob/master/Flutter_App_Brewery/3.%20mi_card/readme_files/ss_of_my_card.jpg?raw=true)
 
 ## What one can learn
 
@@ -25,7 +25,7 @@ Mi Card is a personal business card. Imagine every time you wanted to give someo
 
 ## Take a look on the diagram of Widget used over here
 
-![Diagram](https://github.com/manthan-ladva/Flutter_By_Manthan/blob/master/Flutter_App_Brewery/mi_card/readme_files/mi_card_diagram.png?raw=true)
+![Diagram](https://github.com/manthan-ladva/Flutter_By_Manthan/blob/master/Flutter_App_Brewery/3.%20mi_card/readme_files/mi_card_diagram.png?raw=true)
 
 >This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
 
