@@ -8,7 +8,7 @@ This project is a starting point for a Flutter application.
 
 ## Take a look on the diagram of Widget used over here
 
-![Diagram](https://github.com/manthan-ladva/Flutter_By_Manthan/blob/master/Flutter_App_Brewery/2.%20i_am_poor/i_am_poor_diagram.png?raw=true)
+![Diagram](https://github.com/manthan-ladva/Flutter-Course-App-Brewery/blob/master/2.%20i_am_poor/i_am_poor_diagram.png?raw=true)
 
 A few resources to get you started if this is your first Flutter project:
 
