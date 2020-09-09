@@ -27,7 +27,7 @@ We’re going to make a music app that plays Xylophone sounds. For every Beethov
 
 ## Take a look on the diagram of Widget used over here
 
-![Diagram](https://github.com/manthan-ladva/Flutter_By_Manthan/blob/master/Flutter_App_Brewery/6.%20xylophone/xylophone.png?raw=true)
+![Diagram](https://github.com/manthan-ladva/Flutter-Course-App-Brewery/blob/master/6.%20xylophone/xylophone.png?raw=true)
 
 >This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
 
