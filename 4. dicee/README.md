@@ -12,7 +12,7 @@ The objective of this tutorial is to introduce you to the core programming conce
 
 I have made here Las Vegas dice app. One can make the die roll at the press of a button. With this app in your pocket, you’ll be able to settle any score on the go!
 
-![Finished App](https://github.com/manthan-ladva/Flutter-Course-App-Brewery/blob/master/4.%20dicee/dicee_diagram.png?raw=true)
+![Finished App](https://github.com/manthan-ladva/Flutter-Course-App-Brewery/blob/master/4.%20dicee/gifs/dicee_demo.gif?raw=true)
 
 ## What one can learn
 
