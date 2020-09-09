@@ -12,7 +12,7 @@ In this tutorial we will be reviewing Stateful and Stateless Widgets as well as 
 
 We’re going to make a quiz app that tests your general knowledge. As one of the most popular types of apps on the app stores, you can create your own quiz for other people to enjoy!
 
-![Finished App](https://github.com/manthan-ladva/Flutter_By_Manthan/blob/master/Flutter_App_Brewery/7.%20quizzler/quizzler_gif.gif?raw=true)
+![Finished App](https://github.com/manthan-ladva/Flutter-Course-App-Brewery/blob/master/7.%20quizzler/quizzler_gif.gif?raw=true)
 
 ## What you will learn
 
@@ -29,7 +29,7 @@ We’re going to make a quiz app that tests your general knowledge. As one of th
 
 ## Take a look on the diagram of Widget used over here
 
-![Diagram](https://github.com/manthan-ladva/Flutter_By_Manthan/blob/master/Flutter_App_Brewery/7.%20quizzler/quizzler.png?raw=true)
+![Diagram](https://github.com/manthan-ladva/Flutter-Course-App-Brewery/blob/master/7.%20quizzler/quizzler.png?raw=true)
 
 ## Code Snippet for Project
 
